@@ -14,11 +14,11 @@ In this course, you’ll gain a strong understanding and practical knowledge of 
 
 <a name="information"></a>
 ## Information
-By participating in this workshop, you’ll learn how to:
-> - Find, pull in, and experiment with the HuggingFace model repository and the associated transformers API
-> - Use encoder models for tasks like semantic analysis, embedding, question-answering, and zero-shot classification
-> - Use decoder models to generate sequences like code, unbounded answers, and conversations
-> - Use state management and composition techniques to guide LLMs for safe, effective, and accurate conversation
+The overall goals of this course were the following:
+> - Find, pull in, and experiment with the HuggingFace model repository and the associated transformers API;
+> - Use encoder models for tasks like semantic analysis, embedding, question-answering, and zero-shot classification;
+> - Use decoder models to generate sequences like code, unbounded answers, and conversations;
+> - Use state management and composition techniques to guide LLMs for safe, effective, and accurate conversation;
 
 More detailed information and links for the course can be found on the [course website](https://www.nvidia.com/en-eu/training/instructor-led-workshops/rapid-application-development-using-large-language-models/).
 
