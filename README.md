@@ -27,4 +27,4 @@ More detailed information and links for the course can be found on the [course w
 
 The certificates for the workshops can be found below:
 
-- ["Rapid Application Development Using Large Language Models" - NVIDIA Deep Learning Institute]() (Issued On: September 2024)
+- ["Rapid Application Development Using Large Language Models" - NVIDIA Deep Learning Institute](https://learn.nvidia.com/certificates?id=M8KczVk4RmS99WgWU7dHrQ) (Issued On: September 2024)
