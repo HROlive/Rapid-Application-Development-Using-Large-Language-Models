@@ -25,6 +25,6 @@ More detailed information and links for the course can be found on the [course w
 <a name="certificate"></a>
 ## Certificate
 
-The certificates for the workshops can be found below:
+The certificate for the course can be found below:
 
 - ["Rapid Application Development Using Large Language Models" - NVIDIA Deep Learning Institute](https://learn.nvidia.com/certificates?id=M8KczVk4RmS99WgWU7dHrQ) (Issued On: September 2024)
